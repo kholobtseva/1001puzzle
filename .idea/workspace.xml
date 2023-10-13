@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20f874e4-cfa2-434d-a90f-2a3fd7e7132a" name="Changes" comment="changes after checking + logs 13.10.2023" />
+    <list default="true" id="20f874e4-cfa2-434d-a90f-2a3fd7e7132a" name="Changes" comment="changes after checking + logs 13.10.2023">
+      <change beforePath="$PROJECT_DIR$/screen/screenshot2023.10.11.12.07.18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen/screenshot2023.10.11.17.51.58.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +165,7 @@
       <workItem from="1697030284879" duration="23000" />
       <workItem from="1697030702075" duration="620000" />
       <workItem from="1697035486929" duration="1819000" />
-      <workItem from="1697182314495" duration="3430000" />
+      <workItem from="1697182314495" duration="3752000" />
     </task>
     <task id="LOCAL-00001" summary="Add 1001puzzle v1">
       <created>1697018714214</created>
@@ -199,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697188085394</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changes after checking + logs 13.10.2023">
+      <created>1697188134055</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697188134055</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
