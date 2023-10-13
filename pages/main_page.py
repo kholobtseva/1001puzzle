@@ -193,3 +193,4 @@ class Main_page(Base):
             Logger.add_end_step(url=self.driver.current_url, method='select_about_puzzle')
 
 
+
