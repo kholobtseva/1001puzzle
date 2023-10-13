@@ -9,10 +9,6 @@ from utilities.logger import Logger
 class Login_page(Base):
     url = 'https://1001puzzle.ru/'
 
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.driver = driver
-
     # locators
     enter_to_shop = "Вход"
     main_page = "//img[@src='https://1001puzzle.ru/bitrix/templates/1001puzzle/img/logo.png']"

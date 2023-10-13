@@ -8,9 +8,6 @@ from utilities.logger import Logger
 
 class Main_page(Base):
 
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.driver = driver
 
     name_of_manufacturer = "Пазлы Cobble Hill"
 

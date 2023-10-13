@@ -8,10 +8,6 @@ from utilities.logger import Logger
 
 class Cart_page(Base):
 
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.driver = driver
-
     # locators
     checkout = "//*[@id='basket_items_list']/div[2]/div[4]/a"
     total_price = "//*[@id='allSum_FORMATED']"

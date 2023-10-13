@@ -11,13 +11,13 @@ from selenium.webdriver.chrome.options import Options
 from pages.payment_page import Payment_page
 
 @pytest.mark.run(order=3)
-@allure.description("Test by product 1")
+@allure.description("Test by product")
 def test_by_product_1(set_up):
     options = Options()
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
     driver = webdriver.Chrome(options=options)
 
-    print('Start test 1')
+    print('Start test by product 1')
     login = Login_page(driver)
     login.authorization()
 
@@ -40,7 +40,7 @@ def test_by_product_1(set_up):
     driver.find_element(By.XPATH, "//*[@id='contentid']/form[1]/button").click()
 
 
-    print("Finish test 1")
+    print("Finish test by_product 1")
     driver.quit()
 
 @pytest.mark.run(order=1)
@@ -49,7 +49,7 @@ def test_by_product_2(set_group, set_up):
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
     driver = webdriver.Chrome(options=options)
 
-    print('Start test 2')
+    print('Start test by product 2')
     login = Login_page(driver)
     login.authorization()
 
@@ -59,7 +59,7 @@ def test_by_product_2(set_group, set_up):
     cp = Cart_page(driver)
     cp.click_checkout_button()
 
-    print("Finish test 2")
+    print("Finish test by product 2")
     driver.quit()
 
 @pytest.mark.run(order=2)
@@ -68,7 +68,7 @@ def test_by_product_3(set_up):
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
     driver = webdriver.Chrome(options=options)
 
-    print('Start test 3')
+    print('Start test by product 3')
     login = Login_page(driver)
     login.authorization()
 
@@ -78,5 +78,5 @@ def test_by_product_3(set_up):
     cp = Cart_page(driver)
     cp.click_checkout_button()
 
-    print("Finish test 3")
+    print("Finish test by product 3")
     driver.quit()
