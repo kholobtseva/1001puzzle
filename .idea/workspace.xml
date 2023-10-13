@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20f874e4-cfa2-434d-a90f-2a3fd7e7132a" name="Changes" comment="results and logs at 18:30 11.10.23">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/base_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/base_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-11_11-25-08.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-11_11-41-58.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-11_12-04-30.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-11_17-49-10.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/cart_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/client_information_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/client_information_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/finish_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/finish_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/payment_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/payment_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/015bd54d-f28b-4f50-a0a7-20aeda9032d4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/05788a56-5324-4724-bca8-919a16af5d44-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/068417f1-4a7c-45db-a22f-7990f550a96a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/08e2dbcd-b9bc-40bc-a595-8c153dc321ae-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/0c1408a9-f355-4058-b92a-09e51eb589ed-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/0f3ade8e-0ebb-44d5-8836-7453497ff369-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/20450727-69d0-40e3-ab4d-706fe578d603-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/227b3094-1fbc-4b78-87ca-90d4d99df06a-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/26d9b577-eab8-4fff-947a-73e4998f9dc3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/2df5be71-4026-445a-9104-9317f69ab662-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/2eb417a0-063b-4885-815e-68c0af88b1a6-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/2f788914-56fd-4e49-866f-73cd645b02cc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/5a8325d5-08dc-4d2e-9278-3c9c1f62b376-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/63e31cc7-9167-40db-9486-fb6caa192456-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/64c8d818-d71c-4a47-ab3b-56c7b4550dd3-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/68a54a4e-3755-440b-971b-f4d280e3b585-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/710da874-76dd-4660-b2d3-24a1520c67d4-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/8a431873-801f-4ef4-8537-87b2d99be146-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/9534807c-2288-43b5-a516-4e387d02ff64-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/a60c186f-96f7-403a-a57f-632ce9b7f6d3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/ccedf2a8-fcd8-4942-85dc-6ee09f09e772-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/dfbce399-d17f-494c-8b29-78285c1fd834-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/e6d6ea0a-e144-45bf-9c04-c30bb8b528d7-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/fcf3e1e3-d42e-4e82-a72c-0a2b201397f9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_by_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_by_product.py" afterDir="false" />
-    </list>
+    <list default="true" id="20f874e4-cfa2-434d-a90f-2a3fd7e7132a" name="Changes" comment="changes after checking + logs 13.10.2023" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +162,7 @@
       <workItem from="1697030284879" duration="23000" />
       <workItem from="1697030702075" duration="620000" />
       <workItem from="1697035486929" duration="1819000" />
-      <workItem from="1697182314495" duration="3138000" />
+      <workItem from="1697182314495" duration="3430000" />
     </task>
     <task id="LOCAL-00001" summary="Add 1001puzzle v1">
       <created>1697018714214</created>
@@ -216,7 +178,28 @@
       <option name="project" value="LOCAL" />
       <updated>1697037217022</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changes after checking at 18:30 13.10.2023">
+      <created>1697187909764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697187909764</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changes after checking at 18:30 13.10.2023">
+      <created>1697187926040</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697187926040</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changes after checking + logs 13.10.2023">
+      <created>1697188085394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697188085394</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +220,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add 1001puzzle v1" />
     <MESSAGE value="results and logs at 18:30 11.10.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="results and logs at 18:30 11.10.23" />
+    <MESSAGE value="changes after checking at 18:30 13.10.2023" />
+    <MESSAGE value="changes after checking + logs 13.10.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes after checking + logs 13.10.2023" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1001puzzle$base_class.coverage" NAME="base_class Coverage Results" MODIFIED="1696754764080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
