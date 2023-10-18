@@ -1,0 +1,26 @@
+Enter system
+Start Test
+Start test by product 2
+Current url: https://1001puzzle.ru/
+Click login button
+Input username
+Input password
+Click login button
+xxxxx@gmail.com
+Good value word.
+Личные данные
+Good value word.
+Click logo of the site for getting to the main page
+Current url: https://1001puzzle.ru/
+Click manufacturer menu
+Click choose manufacturer
+Пазлы Cobble Hill
+Check manufacturer name is correct!
+Click choose number of pieces
+Click choose category
+Click page 2
+Click select product 2 button
+Click cart
+Click checkout button
+Finish test by product 2
+Finish Test
