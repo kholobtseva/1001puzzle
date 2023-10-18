@@ -3,20 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="20f874e4-cfa2-434d-a90f-2a3fd7e7132a" name="Changes" comment="deleted screens 13.10.2023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-13_11-59-53.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/0211baf4-2af4-4b00-be8f-d386c1af704d-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/0d25625b-d904-421d-987e-d2ffa09a44b3-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/180e6f32-b220-45cc-8e5d-26c2507ca492-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/45bfb2f0-7cfe-4138-abb2-7c7a3ea5bc99-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/4d7e40d9-67c5-47cf-8e00-fb0a05ef9c35-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/6036d7e3-9a7c-40d2-8923-918d1dca9cf1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/69e2b4d6-7cae-4121-9f57-0c2f3b596b31-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/6a9f94c2-49c8-4728-9013-733867c6ab32-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/99c77104-6264-4c7f-8ad1-71478224693e-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/a1f3368f-5828-45bd-bd3e-e81edde85bb0-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/a436f8c0-2690-48c9-a553-7097126a7d71-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/f42f593b-d1c7-415b-aeba-2b84917b417d-result.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +168,7 @@
       <workItem from="1697201763055" duration="305000" />
       <workItem from="1697380664020" duration="188000" />
       <workItem from="1697382582026" duration="135000" />
-      <workItem from="1697614970774" duration="4173000" />
+      <workItem from="1697614970774" duration="6748000" />
     </task>
     <task id="LOCAL-00001" summary="Add 1001puzzle v1">
       <created>1697018714214</created>
@@ -233,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697188476159</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="deleted screens 13.10.2023">
+      <created>1697619376524</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697619376524</updated>
+    </task>
+    <task id="LOCAL-00009" summary="deleted screens 13.10.2023">
+      <created>1697619393157</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697619393157</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
