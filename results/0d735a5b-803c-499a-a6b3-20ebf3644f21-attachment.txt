@@ -26,9 +26,6 @@ Click checkout button
 Click confirm address button
 Click delivery type
 Click confirm delivery
-Click confirm address button
-Click delivery type
-Click confirm delivery
 Click type of paysystem
 Click confirm type of paysystem
 Input phone number
