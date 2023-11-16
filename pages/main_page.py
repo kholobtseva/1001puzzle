@@ -15,7 +15,9 @@ class Main_page(Base):
 
     select_product_1 = "//*[@id='bx_3966226736_429371']/div[2]/a/img"
     select_product_2 = "//*[@id='bx_3966226736_429361']/div[2]/a/img"
+
     select_product_3 = "//*[@id='bx_3966226736_429372']/div[2]/a/img"
+    #clsselect_product_3 = "//*[@id='bx_3966226736_429372']/div[2]/a/img"
 
     cart = "//a[@href='/personal/cart/']"
     main_catalog_page = "//img[@class='logo-img']"
@@ -193,6 +195,3 @@ class Main_page(Base):
             self.click_review_description()
             self.assert_url("https://1001puzzle.ru/obzory/429295/")
             Logger.add_end_step(url=self.driver.current_url, method='select_about_puzzle')
-
-
-

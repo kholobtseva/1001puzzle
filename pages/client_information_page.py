@@ -1,3 +1,5 @@
+import time
+
 import allure
 from selenium.common import TimeoutException
 
@@ -14,7 +16,8 @@ class Cient_information_page(Base):
     # locators
 
     confirm_address = "//*[@id='bx-soa-region']/div[2]/div[3]/div/a"
-    delivery_type = "//div[@id='bx-soa-delivery']/div[2]/div[2]/div[1]/div[2]/div[1]"
+    #delivery_type = "//div[@id='bx-soa-delivery']/div[2]/div[2]/div[1]/div[2]/div[1]"
+    delivery_type ="//*[@id='bx-soa-delivery']/div[2]/div[2]/div[1]/div[2]/div[2]"
     confirm_delivery = "//*[@id='bx-soa-delivery']/div[2]/div[3]/div/a[2]"
     paysystem_type = "//*[@id='bx-soa-paysystem']/div[2]/div[2]/div[1]/div[3]/div"
     confirm_type_of_paysystem = "//*[@id='bx-soa-paysystem']/div[2]/div[3]/div/a[2]"
@@ -22,6 +25,7 @@ class Cient_information_page(Base):
     address_delivery = "//input[@id='soa-property-7']"
     confirm_personal_information = "//*[@id='bx-soa-properties']/div[2]/div[3]/div/a[2]"
     go_to_cart = "//*[@id='bx_basket1']/a"
+    go_to_delivery = "//*[@id='bx_basket1']/a"
 
     # Getters
 
@@ -53,6 +57,8 @@ class Cient_information_page(Base):
     def get_go_to_cart(self):
         return WebDriverWait(self.driver, 30).until(EC.element_to_be_clickable((By.XPATH, self.go_to_cart)))
 
+
+
     #Actions
 
 
@@ -61,6 +67,7 @@ class Cient_information_page(Base):
         print("Click confirm address button")
 
     def click_delivery_type(self):
+
         self.get_delivery_type().click()
         print("Click delivery type")
 
@@ -92,6 +99,8 @@ class Cient_information_page(Base):
         self.get_go_to_cart().click()
         print("Click go to Cart")
 
+
+
     # Methods
 
     def input_information(self):
@@ -101,13 +110,21 @@ class Cient_information_page(Base):
             for _ in range(4):
                 try:
                     self.click_confirm_address()
+                    time.sleep(5)
                     self.click_delivery_type()
+                    time.sleep(5)
                     self.click_confirm_delivery()
+                    time.sleep(5)
                     self.click_type_of_paysystem()
+                    time.sleep(5)
                     self.click_confirm_type_of_paysystem()
+                    time.sleep(5)
                     self.input_phone_number("79935026482")
+                    time.sleep(5)
                     self.input_delivery_address("г. Ногинск, ул. Декабристов, 17")
+                    time.sleep(5)
                     self.click_confirm_personal_information()
+                    time.sleep(5)
                 except TimeoutException:
                     self.driver.refresh()
                 else:

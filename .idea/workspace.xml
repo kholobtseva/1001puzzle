@@ -1,40 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20f874e4-cfa2-434d-a90f-2a3fd7e7132a" name="Changes" comment="27_10_23_new_logs">
+    <list default="true" id="20f874e4-cfa2-434d-a90f-2a3fd7e7132a" name="Changes" comment="16_11_23_checking">
       <change beforePath="$PROJECT_DIR$/.idea/1001puzzle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1001puzzle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-18_11-48-15.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-18_18-05-04.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-27_13-44-47.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-27_13-53-49.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-27_14-00-17.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log_2023-10-27_14-12-49.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cart_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/client_information_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/client_information_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/050c86a4-91d0-43ef-acb7-44bc5efdb9e0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/08117931-8313-46f2-bbda-a825173644ec-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/0d735a5b-803c-499a-a6b3-20ebf3644f21-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/1a8ed3f8-3636-4847-89d2-86d209384966-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/1e0331fa-d70e-4500-989a-db46db424709-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/3695e973-07e4-4b5d-8ff5-301cb138f89c-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/36b9e8ff-5b9e-4988-a8cb-463cbb8f15e4-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/3c2a3730-8fd6-4e36-9902-354d3b7a702b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/707fa375-035e-4132-81f7-dd00cccdeb31-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/bb1966a2-dc13-4068-bbb7-ce08ee2cf161-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/e47bb81f-d929-4937-a5a2-816db85bede2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/e7aa47a8-ffac-4055-a196-b5e7c61b3d3a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/010ec576-af00-40fa-9a2f-6ade827b48bd-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/032ae587-b9cf-4b60-ba0f-9249b5532958-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/09c9ce06-2ce8-44a5-bacb-634f052b9f86-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/271fe358-7936-4736-8882-944331c7b9bd-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/2e853888-9ffb-487b-8803-a45504386a59-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/627eab27-20a6-42a8-8631-b779abd59f4c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/6821f8bd-9840-4ca8-8841-b21fbbeb2188-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/69e2c46c-0951-4fbb-9014-580932e3d5c4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/77b94513-763d-4cf1-92e8-848845899c4e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/a048c13c-8050-4fd6-b2c5-695a92da3120-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/b1f87c63-dd7c-4c4c-966e-baee0790c825-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/ce269cd7-f9b3-459a-b465-71adb6387947-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_by_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_by_product.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -51,6 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -64,7 +76,7 @@
       <recent name="C:\Users\kholo\PycharmProjects\1001puzzle\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_by_product.py">
+  <component name="RunManager" selected="Python.main_page (1)">
     <configuration name="base_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1001puzzle" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main_page (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1001puzzle" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +156,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\kholo\PycharmProjects\1001puzzle\pages\main_page.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/main_page.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,6 +182,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main_page (1)" />
         <item itemvalue="Python.login_page (1)" />
         <item itemvalue="Python tests.Python tests in test_by_product.py" />
         <item itemvalue="Python.base_class" />
@@ -245,7 +258,13 @@
       <workItem from="1698944025452" duration="1047000" />
       <workItem from="1699023674369" duration="97000" />
       <workItem from="1699024137322" duration="92000" />
-      <workItem from="1700143194606" duration="2970000" />
+      <workItem from="1700143194606" duration="3395000" />
+      <workItem from="1700162698748" duration="51000" />
+      <workItem from="1700163062274" duration="69000" />
+      <workItem from="1700164406996" duration="205000" />
+      <workItem from="1703406567562" duration="1091000" />
+      <workItem from="1703407687696" duration="1693000" />
+      <workItem from="1703409414511" duration="17616000" />
     </task>
     <task id="LOCAL-00001" summary="Add 1001puzzle v1">
       <created>1697018714214</created>
@@ -324,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698405892393</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="16_11_23_checking">
+      <created>1700146195618</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700146195618</updated>
+    </task>
+    <task id="LOCAL-00013" summary="16_11_23_checking">
+      <created>1700146408261</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1700146408261</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,9 +382,11 @@
     <MESSAGE value="changes after checking + logs 13.10.2023" />
     <MESSAGE value="deleted screens 13.10.2023" />
     <MESSAGE value="27_10_23_new_logs" />
-    <option name="LAST_COMMIT_MESSAGE" value="27_10_23_new_logs" />
+    <MESSAGE value="16_11_23_checking" />
+    <option name="LAST_COMMIT_MESSAGE" value="16_11_23_checking" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1001puzzle$main_page__1_.coverage" NAME="main_page (1) Coverage Results" MODIFIED="1703407473822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
     <SUITE FILE_PATH="coverage/1001puzzle$.coverage" NAME=" Coverage Results" MODIFIED="1698445309462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Violet/tests" />
     <SUITE FILE_PATH="coverage/1001puzzle$base_class.coverage" NAME="base_class Coverage Results" MODIFIED="1696754764080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/base" />
     <SUITE FILE_PATH="coverage/1001puzzle$login_page__1_.coverage" NAME="login_page (1) Coverage Results" MODIFIED="1698448007213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Violet/pages" />

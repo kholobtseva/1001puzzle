@@ -19,7 +19,7 @@ class Cart_page(Base):
 
     def get_total_price(self):
         price_in_cart = WebDriverWait(self.driver, 30).until(EC.element_to_be_clickable((By.XPATH, self.total_price)))
-        self.assert_price(price_in_cart, "4 590 р.")
+        self.assert_price(price_in_cart, "4 223 р.")
         print("Total price with delivery", price_in_cart.text)
 
     # Actions
@@ -36,4 +36,3 @@ class Cart_page(Base):
             self.get_current_url()
             self.click_checkout_button()
             Logger.add_end_step(url=self.driver.current_url, method='product_confirmation')
-
