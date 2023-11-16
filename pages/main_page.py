@@ -12,9 +12,10 @@ class Main_page(Base):
     name_of_manufacturer = "Пазлы Cobble Hill"
 
     # locators
-    select_product_1 = "//a[@data-href='/pazly/proizvoditeli/cobble-hill/?detaley_list=1_000&puzzle_tema=zhivotnye&PAGEN_1=2&action=ADD2BASKET&id=429372']"
-    select_product_2 = "//a[@data-href='/pazly/proizvoditeli/cobble-hill/?detaley_list=1_000&puzzle_tema=zhivotnye&PAGEN_1=2&action=ADD2BASKET&id=429371']"
-    select_product_3 = "//a[@data-href='/pazly/proizvoditeli/cobble-hill/?detaley_list=1_000&puzzle_tema=zhivotnye&PAGEN_1=2&action=ADD2BASKET&id=429361']"
+
+    select_product_1 = "//*[@id='bx_3966226736_429371']/div[2]/a/img"
+    select_product_2 = "//*[@id='bx_3966226736_429361']/div[2]/a/img"
+    select_product_3 = "//*[@id='bx_3966226736_429372']/div[2]/a/img"
 
     cart = "//a[@href='/personal/cart/']"
     main_catalog_page = "//img[@class='logo-img']"
