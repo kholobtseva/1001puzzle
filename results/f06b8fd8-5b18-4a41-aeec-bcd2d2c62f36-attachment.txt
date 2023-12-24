@@ -1,5 +1,5 @@
 Start Test
-Start test by product 3
+Start test by product 1
 Current url: https://1001puzzle.ru/
 Click login button
 Input username
@@ -18,8 +18,8 @@ Check manufacturer name is correct!
 Click choose number of pieces
 Click choose category
 Click page 2
-Click select product 3 button
+Click select product 1 button
 Click cart
 Click checkout button
-Finish test by product 3
+Finish test by product 1
 Finish Test
