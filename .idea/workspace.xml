@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20f874e4-cfa2-434d-a90f-2a3fd7e7132a" name="Changes" comment="16_11_23_checking">
-      <change beforePath="$PROJECT_DIR$/.idea/1001puzzle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1001puzzle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/cart_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/cart_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/client_information_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/client_information_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/010ec576-af00-40fa-9a2f-6ade827b48bd-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/032ae587-b9cf-4b60-ba0f-9249b5532958-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/09c9ce06-2ce8-44a5-bacb-634f052b9f86-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/271fe358-7936-4736-8882-944331c7b9bd-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/2e853888-9ffb-487b-8803-a45504386a59-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/627eab27-20a6-42a8-8631-b779abd59f4c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/6821f8bd-9840-4ca8-8841-b21fbbeb2188-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/69e2c46c-0951-4fbb-9014-580932e3d5c4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/77b94513-763d-4cf1-92e8-848845899c4e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/a048c13c-8050-4fd6-b2c5-695a92da3120-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/b1f87c63-dd7c-4c4c-966e-baee0790c825-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/ce269cd7-f9b3-459a-b465-71adb6387947-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_by_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_by_product.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +33,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2WOm8pcHLGIm7bwpFuSwe8MOtyy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

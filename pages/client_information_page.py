@@ -120,11 +120,9 @@ class Cient_information_page(Base):
                     self.click_confirm_type_of_paysystem()
                     time.sleep(5)
                     self.input_phone_number("79935026482")
-                    time.sleep(5)
                     self.input_delivery_address("г. Ногинск, ул. Декабристов, 17")
-                    time.sleep(5)
                     self.click_confirm_personal_information()
-                    time.sleep(5)
+
                 except TimeoutException:
                     self.driver.refresh()
                 else:
