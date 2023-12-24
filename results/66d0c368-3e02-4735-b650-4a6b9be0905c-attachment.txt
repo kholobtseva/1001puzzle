@@ -1,5 +1,5 @@
 Start Test
-Start test by product 1
+Start test by product 3
 Current url: https://1001puzzle.ru/
 Click login button
 Input username
@@ -18,14 +18,11 @@ Check manufacturer name is correct!
 Click choose number of pieces
 Click choose category
 Click page 2
-Click select product 1 button
+Click select product 3 button
 Click cart
 Good value product price
-Total price with delivery 4 590 р.
+Total price with delivery 4 223 р.
 Click checkout button
-Click confirm address button
-Click delivery type
-Click confirm delivery
 Click confirm address button
 Click delivery type
 Click confirm delivery
@@ -37,6 +34,6 @@ Confirm personal information
 Purchase has been completed successfully!!!
 Current url: https://1001puzzle.ru/personal/order/make/
 Good value url.
-Finish test by_product 1
+Finish test by_product 3
 Finish Test
 Exit system

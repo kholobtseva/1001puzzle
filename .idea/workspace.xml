@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="20f874e4-cfa2-434d-a90f-2a3fd7e7132a" name="Changes" comment="23_12_23_checking">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -347,7 +348,35 @@
       <option name="project" value="LOCAL" />
       <updated>1703432506549</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="23_12_23_checking">
+      <created>1703436669627</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703436669627</updated>
+    </task>
+    <task id="LOCAL-00016" summary="23_12_23_checking">
+      <created>1703436797744</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1703436797744</updated>
+    </task>
+    <task id="LOCAL-00017" summary="23_12_23_checking">
+      <created>1703437383400</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703437383400</updated>
+    </task>
+    <task id="LOCAL-00018" summary="23_12_23_checking">
+      <created>1703437426465</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1703437426465</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,6 +402,7 @@
     <MESSAGE value="deleted screens 13.10.2023" />
     <MESSAGE value="27_10_23_new_logs" />
     <MESSAGE value="16_11_23_checking" />
+    <MESSAGE value="23_12_23_logs" />
     <MESSAGE value="23_12_23_checking" />
     <option name="LAST_COMMIT_MESSAGE" value="23_12_23_checking" />
   </component>

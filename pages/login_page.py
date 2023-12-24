@@ -18,7 +18,6 @@ class Login_page(Base):
     main_word2 = "//*[@id='sidebarleft']/div/ul/li[2]/a"
     main_word = "//p[@class='client-email']"
 
-
     # Getters
 
     def get_enter_to_shop(self):
@@ -37,10 +36,10 @@ class Login_page(Base):
         return WebDriverWait(self.driver, 30).until(EC.element_to_be_clickable((By.XPATH, self.main_page)))
 
     def get_main_word(self):
-       return WebDriverWait(self.driver, 30).until(EC.element_to_be_clickable((By.XPATH, self.main_word)))
+        return WebDriverWait(self.driver, 30).until(EC.element_to_be_clickable((By.XPATH, self.main_word)))
 
     def get_main_word2(self):
-       return WebDriverWait(self.driver, 30).until(EC.element_to_be_clickable((By.XPATH, self.main_word2)))
+        return WebDriverWait(self.driver, 30).until(EC.element_to_be_clickable((By.XPATH, self.main_word2)))
 
     # Actions
 
@@ -79,4 +78,4 @@ class Login_page(Base):
             self.get_assert_word(self.get_main_word(), "xxxxx@gmail.com")
             self.get_assert_word(self.get_main_word2(), "Личные данные")
             self.get_go_to_main_page()
-            Logger.add_end_step(url = self.driver.current_url, method='authorization')
+            Logger.add_end_step(url=self.driver.current_url, method='authorization')
