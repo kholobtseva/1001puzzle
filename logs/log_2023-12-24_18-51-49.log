@@ -1,0 +1,121 @@
+
+-----
+Test: tests/test_by_product.py::test_by_product_2 (call)
+Start time: 2023-12-24 18:51:51.633537
+Start name method: authorization
+
+End time: 2023-12-24 18:52:04.770466
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_2 (call)
+Start time: 2023-12-24 18:52:04.770466
+Start name method: select_product2
+
+End time: 2023-12-24 18:52:25.527908
+End name method: select_product2
+URL: https://1001puzzle.ru/personal/cart/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_1 (call)
+Start time: 2023-12-24 18:52:39.137220
+Start name method: authorization
+
+End time: 2023-12-24 18:52:52.783585
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_1 (call)
+Start time: 2023-12-24 18:52:52.783585
+Start name method: select_product1
+
+End time: 2023-12-24 18:53:13.894453
+End name method: select_product1
+URL: https://1001puzzle.ru/personal/cart/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2023-12-24 18:53:27.995098
+Start name method: authorization
+
+End time: 2023-12-24 18:53:41.184235
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2023-12-24 18:53:41.184235
+Start name method: select_product3
+
+End time: 2023-12-24 18:54:00.932820
+End name method: select_product3
+URL: https://1001puzzle.ru/personal/cart/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2023-12-24 18:54:07.185801
+Start name method: input_information
+
+End time: 2023-12-24 18:54:32.884519
+End name method: input_information
+URL: https://1001puzzle.ru/personal/order/make/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2023-12-24 18:54:32.884519
+Start name method: payment
+
+End time: 2023-12-24 18:54:32.891519
+End name method: payment
+URL: https://1001puzzle.ru/personal/order/make/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2023-12-24 18:54:32.891519
+Start name method: finish
+
+End time: 2023-12-24 18:54:32.905519
+End name method: finish
+URL: https://1001puzzle.ru/personal/order/make/
+
+-----
+
+-----
+Test: tests/test_about_puzzle.py::test_puzzle_review (call)
+Start time: 2023-12-24 18:54:47.044019
+Start name method: authorization
+
+End time: 2023-12-24 18:55:00.114992
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_about_puzzle.py::test_puzzle_review (call)
+Start time: 2023-12-24 18:55:00.114992
+Start name method: select_about_puzzle
+
+End time: 2023-12-24 18:55:19.668375
+End name method: select_about_puzzle
+URL: https://1001puzzle.ru/obzory/429295/
+
+-----

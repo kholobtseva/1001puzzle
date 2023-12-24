@@ -1,0 +1,94 @@
+
+-----
+Test: tests/test_about_puzzle.py::test_puzzle_review (call)
+Start time: 2023-12-24 12:29:00.115152
+Start name method: authorization
+
+End time: 2023-12-24 12:29:14.023941
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_about_puzzle.py::test_puzzle_review (call)
+Start time: 2023-12-24 12:29:14.023941
+Start name method: select_about_puzzle
+
+End time: 2023-12-24 12:29:34.502615
+End name method: select_about_puzzle
+URL: https://1001puzzle.ru/obzory/429295/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_1 (call)
+Start time: 2023-12-24 12:29:42.157606
+Start name method: authorization
+
+End time: 2023-12-24 12:29:55.558365
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_1 (call)
+Start time: 2023-12-24 12:29:55.559366
+Start name method: select_product1
+
+End time: 2023-12-24 12:30:16.183699
+End name method: select_product1
+URL: https://1001puzzle.ru/personal/cart/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_1 (call)
+Start time: 2023-12-24 12:30:24.840437
+Start name method: input_information
+
+
+-----
+Test: tests/test_by_product.py::test_by_product_2 (call)
+Start time: 2023-12-24 12:30:27.812878
+Start name method: authorization
+
+End time: 2023-12-24 12:30:41.484046
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_2 (call)
+Start time: 2023-12-24 12:30:41.484046
+Start name method: select_product2
+
+End time: 2023-12-24 12:31:03.097840
+End name method: select_product2
+URL: https://1001puzzle.ru/personal/cart/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2023-12-24 12:31:17.325698
+Start name method: authorization
+
+End time: 2023-12-24 12:31:31.959405
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2023-12-24 12:31:31.959405
+Start name method: select_product3
+
+End time: 2023-12-24 12:31:53.389950
+End name method: select_product3
+URL: https://1001puzzle.ru/personal/cart/
+
+-----

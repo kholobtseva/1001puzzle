@@ -1,0 +1,89 @@
+
+-----
+Test: tests/test_about_puzzle.py::test_puzzle_review (call)
+Start time: 2023-12-24 17:18:58.338988
+Start name method: authorization
+
+End time: 2023-12-24 17:19:11.868758
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_about_puzzle.py::test_puzzle_review (call)
+Start time: 2023-12-24 17:19:11.869759
+Start name method: select_about_puzzle
+
+End time: 2023-12-24 17:19:30.452144
+End name method: select_about_puzzle
+URL: https://1001puzzle.ru/obzory/429295/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_1 (call)
+Start time: 2023-12-24 17:19:38.087345
+Start name method: authorization
+
+End time: 2023-12-24 17:19:51.176525
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_1 (call)
+Start time: 2023-12-24 17:19:51.176525
+Start name method: select_product1
+
+
+-----
+Test: tests/test_by_product.py::test_by_product_2 (call)
+Start time: 2023-12-24 17:20:03.150599
+Start name method: authorization
+
+End time: 2023-12-24 17:20:17.885276
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_2 (call)
+Start time: 2023-12-24 17:20:17.885276
+Start name method: select_product2
+
+End time: 2023-12-24 17:20:38.906356
+End name method: select_product2
+URL: https://1001puzzle.ru/personal/cart/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2023-12-24 17:20:52.482839
+Start name method: authorization
+
+End time: 2023-12-24 17:21:05.786613
+End name method: authorization
+URL: https://1001puzzle.ru/personal/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2023-12-24 17:21:05.786613
+Start name method: select_product3
+
+End time: 2023-12-24 17:21:26.537243
+End name method: select_product3
+URL: https://1001puzzle.ru/personal/cart/
+
+-----
+
+-----
+Test: tests/test_by_product.py::test_by_product_3 (call)
+Start time: 2023-12-24 17:21:32.513048
+Start name method: input_information
+
